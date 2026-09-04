@@ -587,6 +587,34 @@ img {
 }
 
 /* FOOTER */
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 25px;
+}
+
+.social-links a {
+  display: inline-block;
+
+  padding: 10px 20px;
+
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50px;
+
+  color: white;
+
+  font-size: 0.9rem;
+  font-weight: 700;
+
+  transition: 0.25s;
+}
+
+.social-links a:hover {
+  background: var(--orange);
+  border-color: var(--orange);
+  transform: translateY(-2px);
+}
 
 footer {
   background: #241914;
