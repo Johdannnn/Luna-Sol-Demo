@@ -109,7 +109,7 @@ img {
 
   position: relative;
 
-  background: url("images/hero.jpg") center/cover no-repeat;
+  background: url("Images/hero.jpg") center/cover no-repeat;
 
   display: flex;
   align-items: center;
@@ -349,15 +349,15 @@ img {
 }
 
 .food-one {
-  background-image: url("images/french-toast.jpg");
+  background-image: url("Images/french-toast.jpg");
 }
 
 .food-two {
-  background-image: url("images/chorizo-eggs.jpg");
+  background-image: url("Images/chorizo-eggs.jpg");
 }
 
 .food-three {
-  background-image: url("images/burrito.jpg");
+  background-image: url("Images/burrito.jpg");
 }
 
 .food-info {
@@ -532,7 +532,7 @@ img {
 .visit-image {
   min-height: 550px;
 
-  background: url("images/restaurant.jpg") center/cover no-repeat;
+  background: url("Images/restaurant.jpg") center/cover no-repeat;
 }
 
 /* CTA */
